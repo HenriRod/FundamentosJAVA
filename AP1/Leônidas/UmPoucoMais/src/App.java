@@ -26,3 +26,7 @@ public class App {
         teclado.close(); // Fechando o Scanner para evitar vazamento de recursos
     }
 }
+
+
+//       while(tentativa != persas){
+//           msg = 
